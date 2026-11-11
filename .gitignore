@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 eval_results*.json
+
+# Biến môi trường cục bộ (chứa API key)
+env.ps1
